@@ -57,7 +57,9 @@ Polygon supports many services you can use to test, compile, debug, and deploy d
 
 ### Connecting to Polygon
 
-You can add Polygon to MetaMask or directly use Arkane, which allows you to connect to Polygon using [RPC](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
+You can add Polygon to MetaMask or directly use Arkane, which allows you to connect to Polygon using [RPC](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/). 
+
+You can also view all available public endpoints to connect to Polygon on [Alchemy's Chain Connect resource](https://www.alchemy.com/chain-connect/chain/polygon-pos).
 
 In order to connect with the Polygon network to read blockchain information, we recommend using the Alchemy SDK.
 
